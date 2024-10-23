@@ -2,6 +2,8 @@
 
 将保存的JSON数据转换为HTML输出，基于Python + HTML + CSS。
 
+如果需要下载器请移步[这里](https://github.com/Vkango/tiezi-transfer/blob/master/README.md)
+
 # 🚀 清单
 
 ## 回复类型支持
