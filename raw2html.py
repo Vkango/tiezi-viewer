@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import json,shutil
 from datetime import datetime
 dir_path = ""
