@@ -1,3 +1,307 @@
+<<<<<<< HEAD
+.navi
+{
+    padding-left: 20px;
+    position: fixed,relative;
+    color:black;
+    font-weight: 700;
+    line-height: 40px;
+    font-size: larger;
+}
+h1
+{
+    color:red;
+}
+.avatar1
+{
+    border-radius: 100%;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top: 9px;
+    left: -2px;
+}
+.avatar
+{
+    border-radius: 100%;
+    width: 32px;
+    position: relative;
+    top: 5px;
+    left: 0px;
+    height: 32px;
+}
+.nick
+{
+    font-weight: 700;
+    position: relative;
+    display: inline-block;
+    top: -10px;
+    left: 5px;
+}
+.nick1
+{
+    font-weight: 700;
+    position: relative;
+    display: inline-block;
+    font-size: small;
+    top: -2px;
+}
+.owner
+{
+    background-color: rgb(235, 235, 235);
+    border-radius: 30px;
+    height: 25px;
+    line-height: 25px;
+    padding-left: 9px;
+    padding-right: 9px;
+    width: fit-content;
+    position: relative;
+    font-size: small;
+    display: inline-block;
+    top: -9px;
+    left: 7px;
+}
+.owner1
+{
+    background-color: rgb(235, 235, 235);
+    border-radius: 30px;
+    height: 25px;
+    line-height: 25px;
+    padding-left: 9px;
+    padding-right: 9px;
+    width: fit-content;
+    position: relative;
+    font-size: small;
+    display: inline-block;
+    top: -2px;
+}
+.level1
+{
+    background-color: rgb(161, 255, 200);
+    border-radius: 30px;
+    height: 25px;
+    line-height: 25px;
+    padding-left: 9px;
+    padding-right: 9px;
+    width: fit-content;
+    position: relative;
+    font-size: small;
+    display: inline-block;
+    top: -9px;
+    left: 7px;
+}
+.level2
+{
+    background-color: rgb(161, 202, 255);
+    border-radius: 30px;
+    height: 25px;
+    line-height: 25px;
+    padding-left: 9px;
+    padding-right: 9px;
+    width: fit-content;
+    position: relative;
+    font-size: small;
+    display: inline-block;
+    top: -9px;
+    left: 7px;
+}
+.level3
+{
+    background-color: rgb(246, 255, 161);
+    border-radius: 30px;
+    height: 25px;
+    line-height: 25px;
+    padding-left: 9px;
+    padding-right: 9px;
+    width: fit-content;
+    position: relative;
+    font-size: small;
+    display: inline-block;
+    top: -9px;
+    left: 7px;
+}
+.level4
+{
+    background-color: rgb(255, 183, 161);
+    border-radius: 30px;
+    height: 25px;
+    line-height: 25px;
+    padding-left: 9px;
+    padding-right: 9px;
+    width: fit-content;
+    position: relative;
+    font-size: small;
+    display: inline-block;
+    top: -9px;
+    left: 7px;
+}
+.slevel1
+{
+    background-color: rgb(161, 255, 200);
+    border-radius: 30px;
+    height: 25px;
+    line-height: 25px;
+    padding-left: 9px;
+    padding-right: 9px;
+    width: fit-content;
+    position: relative;
+    font-size: small;
+    display: inline-block;
+    top: -2px;
+}
+.slevel2
+{
+    background-color: rgb(161, 202, 255);
+    border-radius: 30px;
+    height: 25px;
+    line-height: 25px;
+    padding-left: 9px;
+    padding-right: 9px;
+    width: fit-content;
+    position: relative;
+    font-size: small;
+    display: inline-block;
+    top: -2px;
+}
+.slevel3
+{
+    background-color: rgb(246, 255, 161);
+    border-radius: 30px;
+    height: 25px;
+    line-height: 25px;
+    padding-left: 9px;
+    padding-right: 9px;
+    width: fit-content;
+    position: relative;
+    font-size: small;
+    display: inline-block;
+    top: -2px;
+}
+.slevel4
+{
+    background-color: rgb(255, 183, 161);
+    border-radius: 30px;
+    height: 25px;
+    line-height: 25px;
+    padding-left: 9px;
+    padding-right: 9px;
+    width: fit-content;
+    position: relative;
+    font-size: small;
+    display: inline-block;
+    top: -2px;
+}
+a
+{
+    text-decoration: none;
+    color: #0084ff;
+}
+.content
+{
+    line-height: 25px;
+    margin-bottom: 20px;
+}
+.post-info
+{
+    font-size: small;
+    color: rgba(0,0,0,0.5);
+    margin-top: 20px;
+}
+img
+{
+    max-width: fit-content;
+    right:20px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+video
+{
+    border-radius: 5px;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+.page-driver
+{
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+.sub-post
+{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    background-color: rgba(0,0,0,0.05);
+    border-radius: 5px;
+    padding: 0px 15px 0px 15px;
+    right: 5px;
+    position: relative;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    display: block;
+}
+button
+{
+    border: none;
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+    background-color: rgba(0,0,0,0.1);
+}
+.voice
+{
+    background-color: #c8e5ff;
+    border-radius: 5px;
+    padding: 5px 5px;
+    width: fit-content;
+}
+.modal {
+    display: none;
+    position: fixed;
+    left: 100px;
+    top: 50px;
+    right: 100px;
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.3);
+    width: calc(100% - 200px); /* 减去左右边距 */
+    height: calc(100% - 100px); /* 减去上下边距 */
+}
+
+.modal-content {
+    background-color: white;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+#reply-box {
+    position: rel;
+    width: 100%;
+    top: 0px;
+    height: 100%;
+}
+
+
+.close {
+    color: #aaa;
+    position: absolute;
+    right: 10px;
+    font-size: 28px;
+    font-weight: bold;
+}
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+=======
 .navi
 {
     padding-left: 20px;
@@ -296,4 +600,5 @@ button
     color: black;
     text-decoration: none;
     cursor: pointer;
+>>>>>>> 9442ecc11525dda47ea4eb4b292f8bbd7e7b88ec
 }
